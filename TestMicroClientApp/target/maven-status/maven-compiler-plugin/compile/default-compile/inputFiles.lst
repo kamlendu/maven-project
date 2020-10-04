@@ -1,0 +1,10 @@
+/root/Desktop/microservices/trial/TestMicroClientApp/src/main/java/event/microservices/testmicroclientapp/service/HealthCheckService.java
+/root/Desktop/microservices/trial/TestMicroClientApp/src/main/java/event/microservices/testmicroclientapp/service/ExampleService.java
+/root/Desktop/microservices/trial/TestMicroClientApp/src/main/java/event/microservices/testmicroclientapp/config/Producers.java
+/root/Desktop/microservices/trial/TestMicroClientApp/src/main/java/event/microservices/testmicroclientapp/config/BootStrap.java
+/root/Desktop/microservices/trial/TestMicroClientApp/src/main/java/testclient/MyRestClient.java
+/root/Desktop/microservices/trial/TestMicroClientApp/src/main/java/event/microservices/testmicroclientapp/service/package-info.java
+/root/Desktop/microservices/trial/TestMicroClientApp/src/main/java/servlets/InvokeExampleServiceServlet.java
+/root/Desktop/microservices/trial/TestMicroClientApp/src/main/java/token/MPJWTToken.java
+/root/Desktop/microservices/trial/TestMicroClientApp/src/main/java/token/GenerateToken.java
+/root/Desktop/microservices/trial/TestMicroClientApp/src/main/java/event/microservices/testmicroclientapp/config/CrossOriginResourceSharingFilter.java

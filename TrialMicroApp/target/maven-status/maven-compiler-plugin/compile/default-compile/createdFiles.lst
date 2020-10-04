@@ -1,0 +1,7 @@
+event/microservices/trialmicroapp/config/BootStrap.class
+servlets/TestMicroServlet.class
+event/microservices/trialmicroapp/service/ExampleService.class
+event/microservices/trialmicroapp/service/HealthCheckService.class
+event/microservices/trialmicroapp/config/Producers.class
+client/ExampleClient.class
+event/microservices/trialmicroapp/config/CrossOriginResourceSharingFilter.class

@@ -1,0 +1,9 @@
+event/microservices/testmicroclientapp/service/ExampleService.class
+servlets/InvokeExampleServiceServlet.class
+event/microservices/testmicroclientapp/service/HealthCheckService.class
+token/GenerateToken.class
+testclient/MyRestClient.class
+event/microservices/testmicroclientapp/config/BootStrap.class
+event/microservices/testmicroclientapp/config/CrossOriginResourceSharingFilter.class
+token/MPJWTToken.class
+event/microservices/testmicroclientapp/config/Producers.class
